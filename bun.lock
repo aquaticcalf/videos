@@ -141,7 +141,7 @@
 
     "@tootallnate/quickjs-emscripten": ["@tootallnate/quickjs-emscripten@0.23.0", "", {}, "sha512-C5Mc6rdnsaJDjO3UpGW/CQTHtCKaYlScZTly4JIu97Jxo/odCiH0ITnDXSJPTOrEKk/ycSZ0AOgTmkDtkOsvIA=="],
 
-    "@types/node": ["@types/node@25.6.0", "", { "dependencies": { "undici-types": "~7.19.0" } }, "sha512-+qIYRKdNYJwY3vRCZMdJbPLJAtGjQBudzZzdzwQYkEPQd+PJGixUL5QfvCLDaULoLv+RhT3LDkwEfKaAkgSmNQ=="],
+    "@types/node": ["@types/node@25.6.2", "", { "dependencies": { "undici-types": "~7.19.0" } }, "sha512-sokuT28dxf9JT5Kady1fsXOvI4HVpjZa95NKT5y9PNTIrs2AsobR4GFAA90ZG8M+nxVRLysCXsVj6eGC7Vbrlw=="],
 
     "@types/retry": ["@types/retry@0.12.0", "", {}, "sha512-wWKOClTTiizcZhXnPY4wikVAwmdYHp8q6DmC+EJUzAMsycb7HB32Kh9RN4+0gExjmPmZSAQjgURXIGATPegAvA=="],
 
@@ -283,7 +283,7 @@
 
     "https-proxy-agent": ["https-proxy-agent@7.0.6", "", { "dependencies": { "agent-base": "^7.1.2", "debug": "4" } }, "sha512-vK9P5/iUfdl95AI+JVyUuIcVtd4ofvtrOr3HNtM2yxC9bnMbEdp3x01OhQNnjb8IJYi38VlTE3mBXwcfvywuSw=="],
 
-    "hyperframes": ["hyperframes@0.5.3", "", { "dependencies": { "@hono/node-server": "^1.8.0", "@puppeteer/browsers": "^2.13.0", "adm-zip": "^0.5.16", "citty": "^0.2.1", "compare-versions": "^6.1.1", "esbuild": "^0.25.0", "giget": "^3.2.0", "hono": "^4.0.0", "mime-types": "^3.0.2", "onnxruntime-node": "^1.20.0", "open": "^10.0.0", "postcss": "^8.5.8", "prettier": "^3.8.1", "puppeteer-core": "^24.39.1", "sharp": "^0.34.0" }, "optionalDependencies": { "@google/genai": "^1.50.1" }, "bin": { "hyperframes": "dist/cli.js" } }, "sha512-xDzecK08/SzZZPdXVsol20ahV0hJDvhlmAhe0WS8fdxMrnkJwrmKmDixV160iKvvVA/wakCWBShvHQimGwbe1g=="],
+    "hyperframes": ["hyperframes@0.5.4", "", { "dependencies": { "@hono/node-server": "^1.8.0", "@puppeteer/browsers": "^2.13.0", "adm-zip": "^0.5.16", "citty": "^0.2.1", "compare-versions": "^6.1.1", "esbuild": "^0.25.0", "giget": "^3.2.0", "hono": "^4.0.0", "mime-types": "^3.0.2", "onnxruntime-node": "^1.20.0", "open": "^10.0.0", "postcss": "^8.5.8", "prettier": "^3.8.1", "puppeteer-core": "^24.39.1", "sharp": "^0.34.0" }, "optionalDependencies": { "@google/genai": "^1.50.1" }, "bin": { "hyperframes": "dist/cli.js" } }, "sha512-LcjXai2WbDrP+H0uO4w+RVsam2prd8oK4h0ujHN/ATN48d7qkzH7ipRGpzwS4VpIN8mQ+JTTNSAn3+fiadxrjg=="],
 
     "ip-address": ["ip-address@10.2.0", "", {}, "sha512-/+S6j4E9AHvW9SWMSEY9Xfy66O5PWvVEJ08O0y5JGyEKQpojb0K0GKpz/v5HJ/G0vi3D2sjGK78119oXZeE0qA=="],
 
