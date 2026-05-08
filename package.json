@@ -1,4 +1,8 @@
 {
+  "scripts": {
+    "dev" : "hyperframes preview",
+    "render" : "hyperframes render"
+  },
   "devDependencies": {
     "hyperframes": "^0.5.3"
   }
