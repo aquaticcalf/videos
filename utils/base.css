@@ -24,6 +24,11 @@ html, body {
     background: var(--bg);
     opacity: 0;
     z-index: sibling-index();
+
+    /* the art of seduction */
+    will-change: transform, opacity;
+    backface-visibility: hidden;
+    transform: translateZ(0);
 }
 
 .scene:first-child {
